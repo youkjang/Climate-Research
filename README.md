@@ -9,3 +9,8 @@
 # Indian Monsoon Research with CAM experiments
 * The Indian Monsoon Circulation Response to El Nino Diabatic Heating (CAM-expt-paper-1.pdf)
 * Tropical Stationary Wave Response to ENSO: Diabatic Heating Influence on the Indian Summer Monsoon(CAM-expt-paper-2.pdf)
+
+## Coding sample and output 
+* The module of a new temperature tendency, add_attend.F90 was applied in CESM to correct diabatic heating bias. (Jang_coding_Fortran_CESM)
+* Drought index (SPI) was calculated in NCL and shell scripts with the CMIP5 multi-model outputs. (sh_NCL_SPI)
+* Taylor Diagram of SPI index from the multi-model outputs.(EOF also applied)
