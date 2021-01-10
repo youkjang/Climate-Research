@@ -14,8 +14,6 @@
 * The module of a new temperature tendency, add_attend.F90 was applied in CESM to correct diabatic heating bias. (Jang_coding_Fortran_CESM_module.pdf)
 * Drought index (SPI) was calculated in NCL and shell scripts with the CMIP5 multi-model outputs. (sh_NCL_SPI.pdf)
 * Taylor Diagram of SPI index from the multi-model outputs.(EOF also applied)
-<image src= "https://github.com/youkjang/Climate-Research/blob/master/images/Taylor_CMIP5.png" width = 200>
-![](https://github.com/youkjang/Climate-Research/blob/master/images/Taylor_CMIP5.png)
 
 ## Research Summary (Jang_research.pdf)
 * Global drought in future climate (CMIP5)
