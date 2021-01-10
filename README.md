@@ -15,7 +15,7 @@
 * Drought index (SPI) was calculated in NCL and shell scripts with the CMIP5 multi-model outputs. (sh_NCL_SPI)
 * Taylor Diagram of SPI index from the multi-model outputs.(EOF also applied)
 
-## Research Summary
+## Research Summary (Jang_research.pdf)
 * Global drought in future climate (CMIP5)
 * US drought with Pacific SST (Idealized SST experiment outputs) 
 * Diabatic heating bias correction in CESM
