@@ -6,9 +6,12 @@
 * SST, Precipitation, PDSI, and Soil Moisture
 * Composites with Nino3.4 index (Oceanic Niño Index, ONI)
 
-### Indian Monsoon Research with CAM experiments
+### Indian Monsoon Research Papers with CAM experiments
 * The Indian Monsoon Circulation Response to El Nino Diabatic Heating (CAM-expt-paper-1.pdf)
 * Tropical Stationary Wave Response to ENSO: Diabatic Heating Influence on the Indian Summer Monsoon(CAM-expt-paper-2.pdf)
+
+### US Drought Research Paper
+* Simulated US Drought Response to Interannual and Decadal Pacific SST Variability (Burgman_Jang.pdf)
 
 ### Coding sample and output 
 * The module of a new temperature tendency, add_attend.F90 was applied in CESM to correct diabatic heating bias. (Jang_coding_Fortran_CESM_module.pdf)
