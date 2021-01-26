@@ -1,4 +1,4 @@
-## Climate-Research
+## Climate Research
 
 ### ENSO Composite
 * xarray
